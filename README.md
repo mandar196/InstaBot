@@ -47,6 +47,7 @@ A problem with the Bag of Words approach is that highly frequent words start to 
 One approach is to rescale the frequency of words by how often they appear in all documents so that the scores for frequent words like “the” that are also frequent across all documents are penalized. This approach to scoring is called Term Frequency-Inverse Document Frequency, or TF-IDF for short, where:
 Term Frequency: is a scoring of the frequency of the word in the current document.
 
+
 If you like this repo, please don't forget to give a ⭐.
 
 
